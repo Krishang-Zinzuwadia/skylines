@@ -1,8 +1,6 @@
 # skylines
-forest but skylines
+forest but skylines!!
 
-smth!!
-keep it going
-
+pure potential
 come on!!
 is ts peak
