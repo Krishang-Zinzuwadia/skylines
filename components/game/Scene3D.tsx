@@ -70,6 +70,12 @@ function CameraController() {
             minDistance={5}
             maxDistance={30}
             maxPolarAngle={Math.PI / 2.2}
+            enablePan={true}
+            mouseButtons={{
+                LEFT: 0,   // Right-click for rotation
+                MIDDLE: 1, // Middle for zoom
+                RIGHT: 2   // Left-click for panning
+            }}
         />
     );
 }
