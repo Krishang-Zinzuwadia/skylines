@@ -15,4 +15,4 @@ mouse right click and drag pans the camera
 
 mouse scroll zooms in and out
 
-w a s d pans the camera too 
+w a s d also pans the camera  
